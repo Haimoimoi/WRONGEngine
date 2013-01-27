@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WRONGEngine", "WRONGEngine\WRONGEngine.csproj", "{DEC9B453-79B0-4E6F-9779-643D7F0B9D08}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleTestGame", "ConsoleTestGame\ConsoleTestGame.csproj", "{0E45B500-30DA-4321-9E37-BAB6EF038689}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DEC9B453-79B0-4E6F-9779-643D7F0B9D08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEC9B453-79B0-4E6F-9779-643D7F0B9D08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEC9B453-79B0-4E6F-9779-643D7F0B9D08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEC9B453-79B0-4E6F-9779-643D7F0B9D08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E45B500-30DA-4321-9E37-BAB6EF038689}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E45B500-30DA-4321-9E37-BAB6EF038689}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E45B500-30DA-4321-9E37-BAB6EF038689}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E45B500-30DA-4321-9E37-BAB6EF038689}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
