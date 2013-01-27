@@ -7,7 +7,7 @@
     <ProjectGuid>{DEC9B453-79B0-4E6F-9779-643D7F0B9D08}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>WRONGEngine</RootNamespace>
+    <RootNamespace>WRONG</RootNamespace>
     <AssemblyName>WRONGEngine</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
@@ -39,6 +39,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Core\PhysicalComponent.cs" />
+    <Compile Include="Core\WRONGComponent.cs" />
+    <Compile Include="Core\WRONGInterface.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Core\WRONGEntity.cs" />
   </ItemGroup>

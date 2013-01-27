@@ -6,7 +6,13 @@ using System.Threading.Tasks;
 
 namespace WRONG
 {
-    class Entity
+    class PhysicalComponent
     {
+
+        #region Fields
+        
+        #endregion
+
+
     }
 }

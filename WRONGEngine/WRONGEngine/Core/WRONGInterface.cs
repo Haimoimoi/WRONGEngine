@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace WRONG
 {
-    class Entity
+    class Interface
     {
     }
 }
