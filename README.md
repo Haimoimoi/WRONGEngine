@@ -1,0 +1,1 @@
+Initial location for open-source parts of WRONG game engine.  WRONG is a C# research game engine focusing on using the C# language to improve componentization models and pipelines.
